@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204074693052",
+    "project_id": "soz-paylas-f1424",
+    "storage_bucket": "soz-paylas-f1424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204074693052:android:f69e31c37ce5e4cd3bbbb9",
+        "android_client_info": {
+          "package_name": "com.example.sozpaylas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204074693052-oj75hda5acle0ahbefhftkkaj6v4vuev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCciE5Wu_NGzdPMYjazZixSQKWOdSQVzqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204074693052-oj75hda5acle0ahbefhftkkaj6v4vuev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
